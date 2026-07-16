@@ -4,16 +4,16 @@
 </pre>
 
 ```
-                    ██████                     geovanisantos@github
-                  ██▓▓▓▓▓▓██                   --------------------
-                ██▓▓▓▓▓▓▓▓▓▓██                 OS: ..................... [SEU SISTEMA OPERACIONAL, ex: Windows 11 / Linux]
-              ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓██               Uptime: ................. [DESDE QUANDO PROGRAMA, ex: 3 anos]
-              ██▓▓░░░░░░░░░░▓▓██               Host: ................... GeoCODE Programmer
-              ██▓▓░░██░░██░░▓▓██               Kernel: ................. [SUA STACK PRINCIPAL, ex: HTML5, CSS3, JS ES6+]
-              ██▓▓░░░░░░░░░░▓▓██               IDE: .................... [SEU EDITOR, ex: VSCode]
-                ██▓▓▓▓░░▓▓▓▓██
-                  ██▓▓▓▓▓▓██                   Languages.Programming: .. [EX: JavaScript, HTML, CSS]
-                    ██████                     Languages.Real: ......... Português, [OUTRO IDIOMA]
+ ██████╗ ███████╗                              geovanisantos@github
+██╔════╝ ██╔════╝                              --------------------
+██║  ███╗███████╗                              OS: ..................... [SEU SISTEMA OPERACIONAL, ex: Windows 11 / Linux]
+██║   ██║╚════██║                              Uptime: ................. [DESDE QUANDO PROGRAMA, ex: 3 anos]
+╚██████╔╝███████║                              Host: ................... GeoCODE Programmer
+ ╚═════╝ ╚══════╝                              Kernel: ................. [SUA STACK PRINCIPAL, ex: HTML5, CSS3, JS ES6+]
+                                                IDE: .................... [SEU EDITOR, ex: VSCode]
+
+                                                Languages.Programming: .. [EX: JavaScript, HTML, CSS]
+                                                Languages.Real: ......... Português, [OUTRO IDIOMA]
 
                                                 Hobbies: ................ [EX: Games, Design, Estudo]
                                                 Base: ................... Aracaju, Sergipe, Brasil
