@@ -1,30 +1,28 @@
-<h3 align="center">Hi there 👋</h3>
-
 <pre align="center">
 </pre>
 
 ```
  ██████╗ ███████╗                              geovanisantos@github
 ██╔════╝ ██╔════╝                              --------------------
-██║  ███╗███████╗                              OS: ..................... [SEU SISTEMA OPERACIONAL, ex: Windows 11 / Linux]
-██║   ██║╚════██║                              Uptime: ................. [DESDE QUANDO PROGRAMA, ex: 3 anos]
+██║  ███╗███████╗                              OS: ..................... Ubuntu 26.04 LTS
+██║   ██║╚════██║                              Uptime: ................. 6 anos
 ╚██████╔╝███████║                              Host: ................... GeoCODE Programmer
- ╚═════╝ ╚══════╝                              Kernel: ................. [SUA STACK PRINCIPAL, ex: HTML5, CSS3, JS ES6+]
-                                                IDE: .................... [SEU EDITOR, ex: VSCode]
+ ╚═════╝ ╚══════╝                              Kernel: ................. HTML5, CSS3, JS ES6
+                                               IDE: .................... VSCode
 
-                                                Languages.Programming: .. [EX: JavaScript, HTML, CSS]
-                                                Languages.Real: ......... Português, [OUTRO IDIOMA]
+                                               Languages.Programming: .. JavaScript, HTML, CSS
+                                               Languages.Real: ......... Português
 
-                                                Hobbies: ................ [EX: Games, Design, Estudo]
-                                                Base: ................... Aracaju, Sergipe, Brasil
+                                               Hobbies: ................ Games, Design, Estudo
+                                               Base: ................... Aracaju, Sergipe, Brasil
 
 ------------------------------------------------------------------------------------------------
 Contact
 ------------------------------------------------------------------------------------------------
 - Email: ......................... geocodeprogrammer@gmail.com
 - Site: .......................... https://eusougeovani.vercel.app/
-- Instagram: ..................... [SEU INSTAGRAM]
-- LinkedIn: ...................... [SEU LINKEDIN]
+- Instagram: ..................... @geovanikeeper
+- LinkedIn: ...................... @eusougeovani
 
 ------------------------------------------------------------------------------------------------
 GitHub Stats
