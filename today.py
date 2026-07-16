@@ -16,6 +16,10 @@ HEADERS = {'authorization': 'token ' + os.environ['ACCESS_TOKEN']}
 USER_NAME = os.environ['USER_NAME']  # ex: 'eusougeovani'
 QUERY_COUNT = {'user_getter': 0, 'follower_getter': 0, 'graph_repos_stars': 0, 'recursive_loc': 0, 'graph_commits': 0, 'loc_query': 0}
 
+# Garante que a pasta cache/ existe antes de qualquer tentativa de leitura/escrita nela.
+# O GitHub não versiona pastas vazias, então às vezes ela "some" ao subir os arquivos manualmente.
+os.makedirs('cache', exist_ok=True)
+
 
 def daily_readme(birthday):
     """
